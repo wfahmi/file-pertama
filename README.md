@@ -1,33 +1,22 @@
-# file-pertama
-phish-all
-PERHATIAN !
+# What?
 
-(tolong sebelum memulai nyalakan hostpot anda dulu agar script bekerja)
+![](https://github.com/busyloop/lolcat/raw/master/ass/nom.jpg)
 
-(please before starting, turn on your hostpot first so that the script works)
+## Screenshot
 
-$ pkg update && pkg upgrade
+![](https://github.com/busyloop/lolcat/raw/master/ass/screenshot.png)
 
-$ pkg install python2
+## Installation
 
-$ pkg install bash
+### Linux
 
-$ pkg install ruby
+```bash
+$ sudo snap install lolcat
+```
 
-$ gem install lolcat
+### Mac
 
-$ pkg install figlet
+```bash
+$ brew install lolcat
+```
 
-$ pkg install toilet
-
-$ pkg install openssh
-
-$ pkg install php
-
-$ pkg install git
-
-$ git clone https://github.com/reyspeed/phish-all
-
-$ cd phish-all
-
-$ bash croot.sh
